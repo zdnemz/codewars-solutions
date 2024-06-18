@@ -7,6 +7,7 @@ Welcome to my Codewars solutions repository! This repository contains my daily s
 ## Table of Contents
 
 - [Repository Structure](#repository-structure)
+- [Requirements](#requirements)
 - [How to Use](#how-to-use)
 - [Contribution](#contribution)
 - [License](#license)
